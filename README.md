@@ -1,1 +1,4 @@
 # PRACTICA-FINAL-PROGRAMACION-2-AUXILIATURA-
+
+Nombre: Jhonatan Pongo Gavincha
+CI: 11094647
