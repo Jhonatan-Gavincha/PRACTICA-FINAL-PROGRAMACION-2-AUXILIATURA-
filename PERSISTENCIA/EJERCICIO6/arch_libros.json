@@ -1,0 +1,27 @@
+[
+    {
+        "codLibro": 1,
+        "titulo": "El Principito",
+        "precio": 15.0
+    },
+    {
+        "codLibro": 2,
+        "titulo": "Cien A\u00f1os de Soledad",
+        "precio": 25.5
+    },
+    {
+        "codLibro": 3,
+        "titulo": "Don Quijote",
+        "precio": 10.0
+    },
+    {
+        "codLibro": 4,
+        "titulo": "Ficci\u00f3n Moderna",
+        "precio": 35.0
+    },
+    {
+        "codLibro": 5,
+        "titulo": "Poes\u00eda Cl\u00e1sica",
+        "precio": 18.0
+    }
+]

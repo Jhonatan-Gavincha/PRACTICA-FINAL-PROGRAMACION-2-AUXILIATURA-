@@ -1,0 +1,77 @@
+[
+    {
+        "nombreFarmacia": "Cruz del Sur",
+        "sucursal": 1,
+        "direccion": "Av. Siempre Viva 742",
+        "medicamentos": [
+            {
+                "nombre": "Tapsin",
+                "codMedicamento": 10,
+                "tipo": "Resfr\u00edo",
+                "precio": 4.5
+            },
+            {
+                "nombre": "JarabeToux",
+                "codMedicamento": 20,
+                "tipo": "Tos",
+                "precio": 6.0
+            },
+            {
+                "nombre": "Ibuprofeno 400",
+                "codMedicamento": 30,
+                "tipo": "Dolor",
+                "precio": 2.0
+            }
+        ]
+    },
+    {
+        "nombreFarmacia": "Farmacia Central",
+        "sucursal": 2,
+        "direccion": "Calle B #123",
+        "medicamentos": [
+            {
+                "nombre": "Aspirina",
+                "codMedicamento": 40,
+                "tipo": "Dolor",
+                "precio": 1.5
+            },
+            {
+                "nombre": "Gripalgin",
+                "codMedicamento": 50,
+                "tipo": "Resfr\u00edo",
+                "precio": 3.0
+            },
+            {
+                "nombre": "Tapsin Forte",
+                "codMedicamento": 70,
+                "tipo": "Resfr\u00edo",
+                "precio": 5.5
+            }
+        ]
+    },
+    {
+        "nombreFarmacia": "Farmacia Norte",
+        "sucursal": 3,
+        "direccion": "Av. Am\u00e9rica 45",
+        "medicamentos": [
+            {
+                "nombre": "Ibuprofeno 400",
+                "codMedicamento": 30,
+                "tipo": "Dolor",
+                "precio": 2.0
+            },
+            {
+                "nombre": "Tapsin Forte",
+                "codMedicamento": 70,
+                "tipo": "Resfr\u00edo",
+                "precio": 5.5
+            },
+            {
+                "nombre": "Tossecalm",
+                "codMedicamento": 60,
+                "tipo": "Tos",
+                "precio": 7.5
+            }
+        ]
+    }
+]

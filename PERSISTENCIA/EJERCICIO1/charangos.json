@@ -1,0 +1,66 @@
+[
+    {
+        "material": "Nogal",
+        "nroCuerdas": 10,
+        "cuerdas": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "material": "Nogal",
+        "nroCuerdas": 10,
+        "cuerdas": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "material": "Roble",
+        "nroCuerdas": 10,
+        "cuerdas": [
+            true,
+            true,
+            true,
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "material": "Roble",
+        "nroCuerdas": 10,
+        "cuerdas": [
+            true,
+            true,
+            true,
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ]
+    }
+]

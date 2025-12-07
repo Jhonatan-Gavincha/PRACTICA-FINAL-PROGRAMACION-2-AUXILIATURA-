@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "nombre": "Zoo Metropolitano",
+        "nroAnimales": 0,
+        "animales": []
+    },
+    {
+        "id": 2,
+        "nombre": "Zoo Central",
+        "nroAnimales": 4,
+        "animales": [
+            {
+                "especie": "Ave",
+                "nombre": "Loro",
+                "cantidad": 15
+            },
+            {
+                "especie": "Reptil",
+                "nombre": "Serpiente",
+                "cantidad": 10
+            },
+            {
+                "especie": "Mam\u00edfero",
+                "nombre": "Jirafa",
+                "cantidad": 4
+            },
+            {
+                "especie": "Reptil",
+                "nombre": "Cocodrilo",
+                "cantidad": 2
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "nombre": "Zoo Norte Renovado",
+        "nroAnimales": 5,
+        "animales": [
+            {
+                "especie": "Ave",
+                "nombre": "\u00c1guila",
+                "cantidad": 16
+            },
+            {
+                "especie": "Ave",
+                "nombre": "Loro",
+                "cantidad": 15
+            },
+            {
+                "especie": "Mam\u00edfero",
+                "nombre": "Jirafa",
+                "cantidad": 4
+            },
+            {
+                "especie": "Mam\u00edfero",
+                "nombre": "Le\u00f3n",
+                "cantidad": 5
+            },
+            {
+                "especie": "Mam\u00edfero",
+                "nombre": "Tigre",
+                "cantidad": 3
+            }
+        ]
+    }
+]

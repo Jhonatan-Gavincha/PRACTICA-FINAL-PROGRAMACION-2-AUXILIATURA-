@@ -1,0 +1,24 @@
+[
+    {
+        "materia": "Fisica",
+        "notaFinal": 95,
+        "estudiante": {
+            "ru": 2,
+            "nombre": "Ana",
+            "paterno": "Quispe",
+            "materno": "Mamani",
+            "edad": 18
+        }
+    },
+    {
+        "materia": "Fisica",
+        "notaFinal": 95,
+        "estudiante": {
+            "ru": 2,
+            "nombre": "Ana",
+            "paterno": "Quispe",
+            "materno": "Mamani",
+            "edad": 18
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "codCliente": 101,
+        "codLibro": 1,
+        "fechaPrestamo": "2024-01-10",
+        "cantidad": 2
+    },
+    {
+        "codCliente": 101,
+        "codLibro": 3,
+        "fechaPrestamo": "2024-01-15",
+        "cantidad": 1
+    },
+    {
+        "codCliente": 102,
+        "codLibro": 2,
+        "fechaPrestamo": "2024-02-01",
+        "cantidad": 1
+    },
+    {
+        "codCliente": 102,
+        "codLibro": 4,
+        "fechaPrestamo": "2024-02-05",
+        "cantidad": 1
+    },
+    {
+        "codCliente": 103,
+        "codLibro": 1,
+        "fechaPrestamo": "2024-03-01",
+        "cantidad": 3
+    },
+    {
+        "codCliente": 103,
+        "codLibro": 2,
+        "fechaPrestamo": "2024-03-10",
+        "cantidad": 1
+    }
+]

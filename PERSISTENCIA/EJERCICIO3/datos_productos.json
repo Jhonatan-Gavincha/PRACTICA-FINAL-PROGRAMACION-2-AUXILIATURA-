@@ -1,0 +1,27 @@
+[
+    {
+        "codigo": 1001,
+        "nombre": "Leche Entera",
+        "precio": 1.99
+    },
+    {
+        "codigo": 1002,
+        "nombre": "Pan Integral",
+        "precio": 3.5
+    },
+    {
+        "codigo": 1003,
+        "nombre": "Manzanas",
+        "precio": 5.0
+    },
+    {
+        "codigo": 1004,
+        "nombre": "Cereales Premium",
+        "precio": 6.5
+    },
+    {
+        "codigo": 1005,
+        "nombre": "Agua Mineral (Pack)",
+        "precio": 4.01
+    }
+]

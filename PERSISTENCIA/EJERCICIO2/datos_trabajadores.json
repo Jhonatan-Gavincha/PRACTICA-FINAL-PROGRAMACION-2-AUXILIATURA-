@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "Ana L\u00f3pez",
+        "carnet": 101,
+        "salario": 30000.0
+    },
+    {
+        "nombre": "Roberto P\u00e9rez",
+        "carnet": 102,
+        "salario": 60000.0
+    },
+    {
+        "nombre": "Carla D\u00edaz",
+        "carnet": 103,
+        "salario": 40000.0
+    },
+    {
+        "nombre": "Miguel Soto",
+        "carnet": 104,
+        "salario": 55000.0
+    }
+]
